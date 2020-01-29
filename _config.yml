@@ -10,8 +10,8 @@ title: Petr Keil
 email: petr.keil@idiv.de
 description: > # this means to ignore newlines until "baseurl:"
   Macroecology, biogeography, statistics, all things related to scale.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/website/" # the subpath of your site, e.g. /blog
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: R_you_cereal
 github_username:  petrkeil
 
