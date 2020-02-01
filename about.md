@@ -9,6 +9,8 @@ at [Faculty of Environmental Sciences](https://www.fzp.czu.cz/en/) of Czech Univ
 
 ![PK](/graphics/petr_keil_small.jpg)
 
+**My** [CV](https://github.com/petrkeil/CV/blob/master/Petr_Keil_CV.pdf)
+
 **E-mail:** <petr.keil@idiv.de>
 
 **Twitter:** [R_you_cereal](https://twitter.com/R_you_cereal)
