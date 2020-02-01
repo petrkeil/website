@@ -12,7 +12,7 @@ in **September 2020**, and I am looking for PhD candidates, postdocs, and techni
 
 ## PhD student 
 
-Stay tuned.
+I offer a fully-funded 3-year **full-time PhD position** - application deadline is **15th March 2020**. Details are [here](https://github.com/petrkeil/website/blob/master/documents/PhD_call_Keil_CZU_2020_full.pdf). 
 
 ## Postdoc
 
