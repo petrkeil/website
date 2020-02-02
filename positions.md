@@ -19,7 +19,7 @@ I offer a fully-funded 3-year **full-time PhD position** - application deadline 
 ## Postdoc
 
 I offer a 2-year **full-time postdoctoral position** in macroecology, ecological statistics, or biodiversity science, with earliest starting date of 1 Sep 2020.
-The salary is ca 1980 EUR/month gross (ca 1450 EUR/month net).
+The salary is ca 1980 EUR/month gross (ca 1450-1650 EUR/month net, depending on family situation and other circumstances).
 
 Requirements:
 
