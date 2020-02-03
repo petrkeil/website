@@ -18,8 +18,9 @@ I offer a fully-funded 3-year **full-time PhD position** - application deadline 
 
 ## Postdoc
 
-I offer a 2-year **full-time postdoctoral position** in macroecology, ecological statistics, or biodiversity science, with earliest starting date of 1 Sep 2020.
-The salary is ca 1980 EUR/month gross (ca 1450-1650 EUR/month net, depending on family situation and other circumstances).
+I offer a 2-year **full-time postdoctoral position** in macroecology, ecological statistics, or biodiversity science. The research topic will be related to patterns and drivers of biodiversity and its patterns in space and time, and across scales - have a look at my [Research](https://petrkeil.github.io/website//research/) to get an overview of my interests. Ideally, we will negotiate a topic that also suits your interest/expertise. Although I generally focus on terrestrial taxa (plants, vertebrates, insects), I am quite flexible in this respect. Elements of evolutionaly biology or applied conservation issues are also highly interesting. Overall, I highly value independent ideas and initiative, and thus I strongly encourage potential candidates to propose a topic. Also, work done in my lab will be primarily computational, with emphasis on statistical modelling and simulations (in R, Python, or similar) and geographic information systems (GIS). However, I am open to solid ideas for fieldwork.  
+
+The earliest starting date is 1 Sep 2020. Deadline for applications is **31 March 2020**. The salary is ca 1980 EUR/month gross (ca 1450-1650 EUR/month net, depending on family situation and other circumstances).
 
 Requirements:
 
@@ -30,7 +31,7 @@ environmental sciences, or related field
 simulations in R, Python, or simiar environment
 - ability to work independently and to come up with original ideas
 
-If you are intersted, please email me, in a signle .pdf:
+If you are intersted, please email me, in a signle .pdf (less than 10 MB):
 
 - motivation letter, including your ideas about what you'd like to work on
 - your CV including your publications and any other relevant outputs (code repositories, reports, your personal website...)
