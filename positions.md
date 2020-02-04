@@ -12,38 +12,27 @@ in **September 2020**, and I am looking for PhD candidates, postdocs, and techni
 
 ## PhD position 
 
-I offer a fully-funded 3-year **full-time PhD position** - application deadline is **15th March 2020**. Details and instructions how to apply are [here](https://github.com/petrkeil/website/blob/master/documents/PhD_call_Keil_CZU_2020_full.pdf). 
+I offer a fully-funded 3-year **full-time PhD position** - application deadline is **15th March 2020**. Details and instructions how to apply are [here](https://github.com/petrkeil/website/blob/master/documents/PhD_Keil_CZU_2020.pdf). 
 
---------
+----------
 
 ## Postdoc
 
-I offer a 2-year **full-time postdoctoral position** in macroecology, ecological statistics, biogeography, or biodiversity science. The research topic will be related to biodiversity and its patterns in space and time, and across spatial scales. Particularly the **temporal change of biodiversity, which includes extinctions and invasions, and their spatial scaling** are my current research priority. Have a look at my [research](https://petrkeil.github.io/website//research/) to get an overview of my other interests. Ideally, we will negotiate a topic that also suits your interest/expertise. Although I generally focus on terrestrial taxa (plants, vertebrates, insects), I am quite flexible in this respect. Elements of evolutionaly biology, historical biogeography, or applied conservation issues are also highly interesting. Overall, I value independent ideas and initiative, and thus I strongly encourage you to propose a topic. Also, work done in my lab will be primarily computational, with emphasis on statistical modelling and simulations (in R, Python, or similar) and geographic information systems (GIS). However, I am open to solid ideas for experiments and fieldwork.  
-
-The earliest starting date is 1 Sep 2020. Deadline for applications is **31 March 2020**. The salary is ca 1980 EUR/month gross (ca 1450-1650 EUR/month net, depending on family situation and other circumstances).
-
-Requirements:
-
-- PhD in ecology, geography, bioinformatics, biostatistics, zoology, botany, 
-environmental sciences, or related field
-- proven ability to publish in peer-reviewed journals
-- experience with spatial/geographical data
-- computational background and the ability to program statistical analyses and
-simulations in R, Python, or simiar environment
-- ability to work independently and to come up with original ideas
-
-If you are intersted, please email me, in a signle .pdf (less than 10 MB):
-
-- motivation letter, including your ideas about what you'd like to work on
-- your CV including your publications and any other relevant outputs (code repositories, reports, your personal website...)
-- a letter of recommendation from your former supervisor/professor and contact details of 2 other scientific referees
-
+I offer a 2-year **full-time postdoc position**. Review of applications will begin on **1 April 2020**, and will continue until the position is filled. Details and instruction how to apply are [here](https://github.com/petrkeil/website/blob/master/documents/Postdoc_Keil_CZU_2020.pdf).
 
 ------------
 
 ## Technician 
 
-I offer a 2-year position of a **full-time or part time technician** that will do data management, maintain biodiversity databases, and work with geogrpahic information systems (GIS). The earliest starting date is 1 Sep 2020. I will announce the details soon, but feel free to drop me an email for an informal inquiry.
+I offer a 2-year position of a **full-time or part time technician** that will do data management, maintain biodiversity databases, and work with geogrpahic information systems (GIS). The earliest starting date is 1 Sep 2020. The salary will be ca 1350 EUR/month gross (ca 1000-1100 EUR/month net, depending on ofamily situation and other circumstances).
+
+Requirements:
+
+- Master or equivalent degree in ecology, geography, bioinformatics, biostatistics, zoology, botany, computer science  
+- experience with statistical analyses and simulations in R, Python, or simiar environment
+- experience with spatial/geographical data
+
+I will announce more details soon, but feel free to drop me an email for an informal inquiry.
 
 
 
