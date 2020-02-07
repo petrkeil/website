@@ -6,7 +6,7 @@ permalink: /positions/
 
 I have been awarded a 3-year [REES](https://www.fzp.czu.cz/en/r-9676-news/announcement-of-rees.html) project at 
 Faculty of Environmental Sciences, Czech University of Life Sciences in Prague. The project begins
-in **September 2020**, and I am looking for PhD candidates, postdocs, and technicians to work with me at the [Department of Applied Geoinformatics and Spatial Planning](https://www.fzp.czu.cz/en/r-9407-departments/r-9471-departments/r-9649-department-of-applied-geoinformatics-and-spatial-planning) at FES campus in Prague ([map](https://goo.gl/maps/meeM8oJwMwHHywtdA)).
+in **September 2020**, and I am looking for PhD candidates, postdocs, and technicians to work with me at the [Faculty of Environmental Sciences](https://www.fzp.czu.cz/en/) at Czech University of Life Sciences in Prague ([campus map](https://goo.gl/maps/meeM8oJwMwHHywtdA)).
 
 ---------
 
