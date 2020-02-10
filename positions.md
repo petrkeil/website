@@ -24,7 +24,7 @@ I offer a 2-year **full-time postdoc position**. Review of applications will beg
 
 ## Technician 
 
-I offer a 2-year position of a **full-time or part time technician** that will do data management, maintain biodiversity databases, and work with geogrpahic information systems (GIS). The earliest starting date is 1 Sep 2020. The salary will be ca 1350 EUR/month gross (ca 1000-1100 EUR/month net, depending on ofamily situation and other circumstances).
+I will have a 2-year position of a **full-time or part time technician** that will do data management, maintain biodiversity databases, and work with geogrpahic information systems (GIS). Starting date will be around fall 2020 or early 2021. The salary will be ca 1350 EUR/month gross (ca 1000-1100 EUR/month net, depending on ofamily situation and other circumstances).
 
 Requirements:
 
@@ -32,7 +32,7 @@ Requirements:
 - experience with statistical analyses and simulations in R, Python, or simiar environment
 - experience with spatial/geographical data
 
-I will announce more details soon, but feel free to drop me an email for an informal inquiry.
+At the moment feel free to send me your CV or an email for an informal inquiry. I will put you on my list and will get in touch with you later.
 
 
 
