@@ -32,7 +32,7 @@ Requirements:
 - experience with statistical analyses and simulations in R, Python, or simiar environment
 - experience with spatial/geographical data
 
-At the moment feel free to send me your CV or an email for an informal inquiry. I will put you on my list and will get in touch with you later.
+Please note that this call is prelimiary - there is no deadine yet nor formal procedure in place yet. I expect to be doing a more proper search for candidates later this year. However, if you want be on my radar, feel free to send me your CV or an email for an informal inquiry. I will put you on my list and will get in touch with you later.
 
 
 
