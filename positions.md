@@ -6,7 +6,7 @@ permalink: /positions/
 
 ## Postdoc
 
-I offer a 2-year **full-time postdoc position**. Review of applications will begin on **15 October 2020**, and will continue until the position is filled. Details and instructions how to apply are **[here](https://github.com/petrkeil/website/blob/master/documents/Postdoc_Keil_CZU_2020.pdf).**
+I offer a 2-year **full-time postdoc position**. Review of applications will begin on **15 October 2020**, and will continue until the position is filled. Details and instructions how to apply are **[here](https://github.com/petrkeil/website/blob/master/documents/Postdoc_Keil_CZU_2020_v2.pdf).**
 
 ---------
 
