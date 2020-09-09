@@ -24,10 +24,15 @@ at [Faculty of Environmental Sciences](https://www.fzp.czu.cz/en/) of Czech Univ
 **Address:**
 
 Department of Applied Geoinformatics and Spatial Planning
+
 Faculty of Environmental Sciences
+
 Czech University of Life Sciences Prague
+
 Kamycka 129
+
 165 21, Prague 6
+
 Czech Republic
 
 
