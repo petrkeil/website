@@ -23,7 +23,7 @@ at [Faculty of Environmental Sciences](https://www.fzp.czu.cz/en/) of Czech Univ
 
 **Address:**
 
-Department of Applied Geoinformatics and Spatial Planning
+Dpt. of Applied Geoinformatics and Spatial Planning
 
 Faculty of Environmental Sciences
 
