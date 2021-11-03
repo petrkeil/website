@@ -1,81 +1,15 @@
 ---
 layout: default
 ---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<div class="news-post">
-	<div class="row">
-		<div class="col-lg-1"></div>
-		<div class="col-lg-10">
-			<div class="media">
-				<div class="media-body">
-					<div class="title media-heading">
-						<a href="{{ page.url }}" class="off">{{ page.title }}</a>
-					</div>
-					<p>
-					<div class="smallhead">
-						{{ page.date | date: "%-d %b %Y" }}
-						{% if page.author %}
-						by <a class="off" href="
-							{% for member in site.categories.team %}
-								{% if member.title == page.author %}
-									{{ member.url }}
-								{% endif %}
-							{% endfor %}
-						">
-						{{ page.author }}
-						</a>
-						{% endif %}
-						{% if page.authors %}
-						by
-						<a class="off" href="
-							{% for member in site.categories.team %}
-								{% if member.title == page.authors.first %}
-									{{ member.url }}
-								{% endif %}
-							{% endfor %}
-						">
-						{{ page.authors.first }}
-						</a>
-						and
-						<a class="off" href="
-							{% for member in site.categories.team %}
-								{% if member.title == page.authors.last %}
-									{{ member.url }}
-								{% endif %}
-							{% endfor %}
-						">
-						{{ page.authors.last }}
-						</a>
-						{% endif %}
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-1"></div>
-	</div>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
 
-	<div class="bigspacer"></div>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
-	<div class="row">
-		<div class="col-lg-1"></div>
-		<div class="col-lg-10">
-			{% if page.image %}
-			{% if page.link %}
-			<a href="{{ page.link }}">
-				<img class="offset" src="{{ page.image }}">
-			</a>
-			{% else %}
-			<img class="offset" src="{{ page.image }}">
-			{% endif %}
-			{% endif %}
-			<div class="post">
-				{{ content }}
-			</div>
-		</div>
-		<div class="col-lg-1"></div>
-	</div>
-
-	<div class="bigspacer"></div>
-	<div class="spacer"></div>
-
-</div>
+</article>
