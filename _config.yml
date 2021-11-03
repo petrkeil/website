@@ -1,11 +1,14 @@
 name: MOBI Lab
 description: Modelling of Biodiversity laboratory at Czech University of Life Sciences
 url: "https://petrkeil.github.io/website/"
-baseurl:  "/website/"
+baseurl:  "/website"
+production_url: http://petrkeil.github.io.com/website
+BASE_PATH : http://petrkeil.com/website
 
 title: MOBI Lab
 
 markdown: kramdown
+permalink: /:categories/:title/
 
 future: true
 sass:
