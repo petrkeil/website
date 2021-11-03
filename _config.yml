@@ -8,7 +8,7 @@ BASE_PATH : http://petrkeil.com/website
 title: MOBI Lab
 
 markdown: kramdown
-permalink: /:categories/:title/
+
 
 future: true
 sass:
@@ -50,5 +50,3 @@ exclude:
 
 
 
-
-theme: jekyll-theme-cayman
