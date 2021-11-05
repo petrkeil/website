@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /team/
+title: People
+permalink: /people/
 ---
 
 I am currently advisor of one postdoc (Flo Grattarola) and PhD student (Francois Leroy) at CZU in Prague. I also co-advise two PhD students (Amanda Ratier Backes, Eduardo Arle) at iDiv, Leipzig, Germany.
